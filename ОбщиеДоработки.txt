@@ -1,3 +1,0 @@
-настроить grpc
-openapi (для API Gateway) посмотреть
-вынести go.mod общим
